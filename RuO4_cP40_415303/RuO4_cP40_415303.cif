@@ -1,0 +1,56 @@
+data_RuO4_cP40
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    8.7611894400
+_cell_length_b    8.7611894400
+_cell_length_c    8.7611894400
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "P -4 3 n"
+_symmetry_Int_Tables_number 218
+_space_group.reference_setting '218:P -4n 2 3'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y,-z
+4 -x,-y,z
+5 y,z,x
+6 y,-z,-x
+7 -y,z,-x
+8 -y,-z,x
+9 z,x,y
+10 z,-x,-y
+11 -z,x,-y
+12 -z,-x,y
+13 y+1/2,x+1/2,z+1/2
+14 y+1/2,-x+1/2,-z+1/2
+15 -y+1/2,x+1/2,-z+1/2
+16 -y+1/2,-x+1/2,z+1/2
+17 x+1/2,z+1/2,y+1/2
+18 x+1/2,-z+1/2,-y+1/2
+19 -x+1/2,z+1/2,-y+1/2
+20 -x+1/2,-z+1/2,y+1/2
+21 z+1/2,y+1/2,x+1/2
+22 z+1/2,-y+1/2,-x+1/2
+23 -z+1/2,y+1/2,-x+1/2
+24 -z+1/2,-y+1/2,x+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ru1 Ru   2 a 0.00000 0.00000 0.00000 1.00000
+Ru2 Ru   6 d 0.25000 0.00000 0.50000 1.00000
+O1  O   24 i 0.36102 0.88892 0.38855 1.00000
+O2  O    8 e 0.38880 0.38880 0.38880 1.00000

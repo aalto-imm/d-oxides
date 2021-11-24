@@ -1,0 +1,40 @@
+data_CrO3_oS16
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    5.7479446100
+_cell_length_b    8.9792745101
+_cell_length_c    4.9254272051
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "A m a 2"
+_symmetry_Int_Tables_number 40
+_space_group.reference_setting '040:A 2 -2a'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,-y,z
+3 x+1/2,-y,z
+4 -x+1/2,y,z
+5 x,y+1/2,z+1/2
+6 -x,-y+1/2,z+1/2
+7 x+1/2,-y+1/2,z+1/2
+8 -x+1/2,y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cr1 Cr   4 b 0.25000 0.40714 0.00016 1.00000
+O1  O    4 a 0.00000 0.00000 0.60889 1.00000
+O2  O    4 b 0.25000 0.24645 0.11701 1.00000
+O3  O    4 b 0.25000 0.89766 0.18593 1.00000

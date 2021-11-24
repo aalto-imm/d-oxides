@@ -1,0 +1,36 @@
+data_WO2_mP12
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    5.5535430900
+_cell_length_b    4.9273923500
+_cell_length_c    5.5846562500
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  118.5217070000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "P 1 21 1"
+_symmetry_Int_Tables_number 4
+_space_group.reference_setting '004:P 2yb'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+W1_a  W    2 a 0.23368  -0.00870 -0.03671 1.00000
+W2_b W   2 a 0.26631  0.00869  0.53672  1.00000
+O1  O    2 a 0.01080  0.21957  0.62701  1.00000
+O2  O    2 a 0.48921  0.78044  0.87299  1.00000
+O3  O    2 a -0.04656 0.69697  0.84126  1.00000
+O4  O    2 a 0.54654  0.30303  0.65872  1.00000

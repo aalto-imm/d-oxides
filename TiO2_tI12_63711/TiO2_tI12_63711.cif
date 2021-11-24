@@ -1,0 +1,62 @@
+data_TiO2_tI12
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    3.7692033870
+_cell_length_b    3.7692033870
+_cell_length_c    9.6731823548
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "I 41/a 2/m 2/d (origin choice 2)"
+_symmetry_Int_Tables_number 141
+_space_group.reference_setting '141:-I 4bd 2'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,y+1/2,-z
+4 -x,-y+1/2,z
+5 -y+1/4,-x+1/4,-z+3/4
+6 -y+1/4,x+3/4,z+1/4
+7 y+3/4,-x+3/4,z+1/4
+8 y+3/4,x+1/4,-z+3/4
+9 -x,-y,-z
+10 -x,y,z
+11 x,-y+1/2,z
+12 x,y+1/2,-z
+13 y+3/4,x+3/4,z+1/4
+14 y+3/4,-x+1/4,-z+3/4
+15 -y+1/4,x+1/4,-z+3/4
+16 -y+1/4,-x+3/4,z+1/4
+17 x+1/2,y+1/2,z+1/2
+18 x+1/2,-y+1/2,-z+1/2
+19 -x+1/2,y,-z+1/2
+20 -x+1/2,-y,z+1/2
+21 -y+3/4,-x+3/4,-z+1/4
+22 -y+3/4,x+1/4,z+3/4
+23 y+1/4,-x+1/4,z+3/4
+24 y+1/4,x+3/4,-z+1/4
+25 -x+1/2,-y+1/2,-z+1/2
+26 -x+1/2,y+1/2,z+1/2
+27 x+1/2,-y,z+1/2
+28 x+1/2,y,-z+1/2
+29 y+1/4,x+1/4,z+3/4
+30 y+1/4,-x+3/4,-z+1/4
+31 -y+3/4,x+3/4,-z+1/4
+32 -y+3/4,-x+1/4,z+3/4
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti1 Ti   4 b 0.00000 0.25000 0.37500 1.00000
+O1  O    8 e 0.00000 0.25000 0.58036 1.00000

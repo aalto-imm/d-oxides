@@ -1,0 +1,40 @@
+data_WO3_oP32
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    7.4387070800
+_cell_length_b    7.9030660500
+_cell_length_c    7.7775025200
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "P 21/b 2/c 21/n"
+_symmetry_Int_Tables_number 60
+_space_group.reference_setting '060:-P 2n 2ab'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x+1/2,-y+1/2,-z
+3 -x,y,-z+1/2
+4 -x+1/2,-y+1/2,z+1/2
+5 -x,-y,-z
+6 -x+1/2,y+1/2,z
+7 x,-y,z+1/2
+8 x+1/2,y+1/2,-z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+W1 W   8 d 0.24988 0.78189 0.03478  1.00000
+O1 O   8 d 0.49995 0.74926 -0.00062 1.00000
+O2 O   8 d 0.25062 0.75590 0.25976  1.00000
+O3 O   8 d 0.24927 0.50273 0.01762  1.00000

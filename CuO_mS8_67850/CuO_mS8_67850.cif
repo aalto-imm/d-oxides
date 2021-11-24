@@ -1,0 +1,36 @@
+data_CuO_mS8
+_audit_creation_method FINDSYM
+ 
+_cell_length_a    7.5647796800
+_cell_length_b    3.4233372200
+_cell_length_c    6.3724011900
+_cell_angle_alpha 90.0000000000
+_cell_angle_beta  94.7662240000
+_cell_angle_gamma 90.0000000000
+ 
+_symmetry_space_group_name_H-M "P 1 21/c 1"
+_symmetry_Int_Tables_number 14
+_space_group.reference_setting '014:-P 2ybc'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+ 
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 -x,y+1/2,-z+1/2
+3 -x,-y,-z
+4 x,-y+1/2,z+1/2
+ 
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1_a Cu   4 e 0.12431 0.74862 0.12483 1.00000
+Cu2_b Cu   4 e 0.62431 0.74871 0.62485 1.00000
+O1  O    4 e 0.12539 0.41342 0.87464 1.00000
+O2  O    4 e 0.62539 0.41334 0.37472 1.00000
